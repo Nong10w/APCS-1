@@ -8,3 +8,7 @@ The first APCS discussion project
 4. 方法getWeight()，输出当前南瓜的重量。
 5. 静态方法getTotalInformation()，输出所有南瓜的统计信息。
 6. 用程序MyPumpkin.java来使用Pumpkin类，要求输出每一个南瓜的重量和所有南瓜的总重量。
+
+# Upload your program
+
+请直接将.java 文件上传到根目录，文件名就写自己的名字！
